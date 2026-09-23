@@ -1,0 +1,32 @@
+.ipynb_checkpoints/
+src/__pycache__/
+
+goat_manifest_analysis_per_file.csv
+goat_manifest_analysis_summary.csv
+goat_manifest_withval_analysis_per_file.csv
+goat_manifest_withval_analysis_summary.csv
+goat_manifest_withval_token_report.csv
+goat_manifest_withval_trimmed_newsplits_token_report.csv
+goat_manifest_withval_trimmed_newsplits.csv
+goat_manifest_withval_trimmed.csv
+goat_manifest_withval.csv
+goat_manifest.csv
+synthtab_manifest_clean_notempochanges_withval_analysis_per_file.csv
+synthtab_manifest_clean_notempochanges_withval_analysis_summary.csv
+synthtab_manifest_clean_notempochanges_withval.csv
+synthtab_manifest_clean_notempochanges.csv
+synthtab_manifest_clean.csv
+synthtab_manifest.csv
+notebooks/all_tokens_dadagp_normalized copy.json
+notebooks/all_tokens_dadagp_normalized.json
+notebooks/all_tokens_dadagp.json
+notebooks/alltokens_fixed.json
+notebooks/alltokens.json
+
+notebooks/analyse_results.ipynb
+notebooks/audio_setup.ipynb
+notebooks/check_goat_split.ipynb
+old_csvs/
+# Keep regression tests and fixtures visible; ignore other test artifacts.
+tests/
+scripts/
