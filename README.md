@@ -7,6 +7,9 @@
 ## Description
 
 Given an audio file of up to 30 seconds, Audio2Tab transcribes the audio and outputs a .gp5 file containing a tablature transcription, which can then be opened using common guitar tablature software such as [Guitar Pro](https://www.guitar-pro.com/) and [TuxGuitar](https://www.tuxguitar.app/).
+
+Listen to audio example [here!](https://jackjamesloth.github.io/Audio2Tab-dev/)
+
 ## Installation
 
 Install the Python dependencies with `pip install -r requirements.txt`. 
